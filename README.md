@@ -22,3 +22,7 @@ end
 
 <p align="center">It will return this : </p>
 
+```bash
+/execute if score Daylowww kill < SalleDeValras kill run say Daylowww on fire yeah
+/say Hello World!
+```
