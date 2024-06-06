@@ -26,3 +26,6 @@ end
 /say Hello World!
 /execute if score Daylowww kill < SalleDeValras kill run say Daylowww on fire yeah
 ```
+
+<hr>
+<p align="center">This tool is not affiliated with Mojang Studios or Minecraft. Minecraft is a trademark of Mojang Studios. All trademarks and registered trademarks are the property of their respective owners.</p>
