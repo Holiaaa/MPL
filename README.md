@@ -10,7 +10,7 @@
 <h3 align="center">How it works ?</h3>
 <p align="center">First make a Minescript code : </p>
 
-```lua
+```python
 # Say Hello World !
 print("Hello World!")
 
