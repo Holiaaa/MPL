@@ -5,4 +5,4 @@
   <img src="https://img.shields.io/badge/Made_in-Python-green">
 </p>
 <hr>
-- _Minescript_ is a scripting language that compiled into minecraft commands!
+<p align="center">*Minescript* is a scripting language that compiled into minecraft commands!</p>
