@@ -8,6 +8,7 @@
 <p align="center"><b>Minescript</b> is a scripting language that can be compiled into minecraft commands!</p>
 <hr>
 <h3 align="center">How it works ?</h3>
+<p align="center">First make a Minescript code : </p>
 
 ```python
 # Say Hello World !
@@ -18,4 +19,6 @@ if score(Daylowww:kill) < score(SalleDeValras:kill) then
     print("Daylowww on fire yeah")
 end
 ```
+
+<p align="center">It will return this : </p>
 
