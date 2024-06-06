@@ -10,5 +10,12 @@
 <h3 align="center">How it works ?</h3>
 
 ```python
-import os
+# Say Hello World !
+print("Hello World!")
+
+# Check if the score of Daylowww is lower than the score of SalleDeValras
+if score(Daylowww:kill) < score(SalleDeValras:kill) then
+    print("Daylowww on fire yeah")
+end
 ```
+
