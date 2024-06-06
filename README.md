@@ -8,6 +8,7 @@
 <p align="center"><b>Minescript</b> is a scripting language that can be compiled into minecraft commands!</p>
 <hr>
 <h4 align="center">How it works ?</h4>
+
 ```python
 import os
 ```
