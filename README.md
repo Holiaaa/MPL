@@ -4,3 +4,4 @@
   <img src="https://img.shields.io/badge/Licence-MIT-blue">
   <img src="https://img.shields.io/badge/Made_in-Python-green">
 </p>
+<hr>
