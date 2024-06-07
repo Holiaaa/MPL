@@ -123,9 +123,7 @@ if score(Daylowww:money) < score(SalleDeValras:money) then
     ban(Daylowww)
 end
 
-if block(~ ~82 ~) is minecraft:diamond_block then
-    print("Yeah")
-end
+print("Daylowww is banned hahahah")
 """
 
 code = Parser(Lexer(mycode).execute()).execute()
